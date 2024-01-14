@@ -1,0 +1,13 @@
+/home/cjy1/workspace/MRPC/build/CMakeFiles/edit_cache.dir
+/home/cjy1/workspace/MRPC/build/CMakeFiles/rebuild_cache.dir
+/home/cjy1/workspace/MRPC/build/src/CMakeFiles/edit_cache.dir
+/home/cjy1/workspace/MRPC/build/src/CMakeFiles/rebuild_cache.dir
+/home/cjy1/workspace/MRPC/build/src/CMakeFiles/mprpc.dir
+/home/cjy1/workspace/MRPC/build/example/CMakeFiles/edit_cache.dir
+/home/cjy1/workspace/MRPC/build/example/CMakeFiles/rebuild_cache.dir
+/home/cjy1/workspace/MRPC/build/example/callee/CMakeFiles/edit_cache.dir
+/home/cjy1/workspace/MRPC/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/cjy1/workspace/MRPC/build/example/callee/CMakeFiles/provider.dir
+/home/cjy1/workspace/MRPC/build/example/caller/CMakeFiles/edit_cache.dir
+/home/cjy1/workspace/MRPC/build/example/caller/CMakeFiles/rebuild_cache.dir
+/home/cjy1/workspace/MRPC/build/example/caller/CMakeFiles/consumer.dir
