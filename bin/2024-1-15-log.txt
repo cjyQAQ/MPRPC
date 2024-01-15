@@ -1,0 +1,2 @@
+14:44:0 => first log message!
+14:44:0 => /home/cjy1/workspace/MRPC/example/callee/FriendService.cc:main:46

@@ -6,6 +6,22 @@
 
 #IncludeRegexTransform: 
 
+../src/include/LockQueue.h
+queue
+-
+thread
+-
+mutex
+-
+condition_variable
+-
+
+../src/include/Logger.h
+LockQueue.h
+../src/include/LockQueue.h
+string
+-
+
 ../src/include/MprpcApplication.h
 MprpcConfig.h
 ../src/include/MprpcConfig.h
@@ -82,6 +98,14 @@ muduo/net/TcpConnection.h
 google/protobuf/descriptor.h
 -
 
+/home/cjy1/workspace/MRPC/src/Logger.cc
+Logger.h
+/home/cjy1/workspace/MRPC/src/Logger.h
+time.h
+-
+iostream
+-
+
 /home/cjy1/workspace/MRPC/src/MprpcApplication.cc
 MprpcApplication.h
 /home/cjy1/workspace/MRPC/src/MprpcApplication.h
@@ -155,4 +179,6 @@ MprpcApplication.h
 -
 RpcHeader.pb.h
 /home/cjy1/workspace/MRPC/src/RpcHeader.pb.h
+Logger.h
+/home/cjy1/workspace/MRPC/src/Logger.h
 

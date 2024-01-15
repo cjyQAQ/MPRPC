@@ -4,7 +4,7 @@
 #include "MprpcApplication.h"
 #include "RpcProvider.h"
 #include <vector>
-
+#include "Logger.h"
 
 using namespace fixbug;
 using namespace std;
@@ -42,6 +42,8 @@ public:
 
 int main(int argc , char **argv)
 {
+    LOG_INFO("first log message!");
+    LOG_ERR("%s:%s:%d",__FILE__,__FUNCTION__,__LINE__);
     // 调用框架的初始化
     MprpcApplication::Init(argc,argv);
 
