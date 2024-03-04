@@ -1,0 +1,4 @@
+17:58:14 => [ERROR] first log message!
+17:58:14 => [ERROR] /home/cjy1/workspace/MRPC/example/callee/FriendService.cc:main:46
+17:58:14 => [INFO] service_name : FriendServiceRpc
+17:58:14 => [INFO] method_name : GetFriendsList

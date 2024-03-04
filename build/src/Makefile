@@ -314,6 +314,33 @@ RpcProvider.cc.s:
 	cd /home/cjy1/workspace/MRPC/build && $(MAKE) -f src/CMakeFiles/mprpc.dir/build.make src/CMakeFiles/mprpc.dir/RpcProvider.cc.s
 .PHONY : RpcProvider.cc.s
 
+ZkClient.o: ZkClient.cpp.o
+
+.PHONY : ZkClient.o
+
+# target to build an object file
+ZkClient.cpp.o:
+	cd /home/cjy1/workspace/MRPC/build && $(MAKE) -f src/CMakeFiles/mprpc.dir/build.make src/CMakeFiles/mprpc.dir/ZkClient.cpp.o
+.PHONY : ZkClient.cpp.o
+
+ZkClient.i: ZkClient.cpp.i
+
+.PHONY : ZkClient.i
+
+# target to preprocess a source file
+ZkClient.cpp.i:
+	cd /home/cjy1/workspace/MRPC/build && $(MAKE) -f src/CMakeFiles/mprpc.dir/build.make src/CMakeFiles/mprpc.dir/ZkClient.cpp.i
+.PHONY : ZkClient.cpp.i
+
+ZkClient.s: ZkClient.cpp.s
+
+.PHONY : ZkClient.s
+
+# target to generate assembly for a file
+ZkClient.cpp.s:
+	cd /home/cjy1/workspace/MRPC/build && $(MAKE) -f src/CMakeFiles/mprpc.dir/build.make src/CMakeFiles/mprpc.dir/ZkClient.cpp.s
+.PHONY : ZkClient.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -344,6 +371,9 @@ help:
 	@echo "... RpcProvider.o"
 	@echo "... RpcProvider.i"
 	@echo "... RpcProvider.s"
+	@echo "... ZkClient.o"
+	@echo "... ZkClient.i"
+	@echo "... ZkClient.s"
 .PHONY : help
 
 

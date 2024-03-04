@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/mprpc.dir/ZkClient.cpp.o"
   "CMakeFiles/mprpc.dir/MprpcConfig.cc.o"
   "CMakeFiles/mprpc.dir/RpcHeader.pb.cc.o"
   "CMakeFiles/mprpc.dir/RpcProvider.cc.o"

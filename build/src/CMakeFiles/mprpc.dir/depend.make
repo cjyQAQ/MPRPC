@@ -16,6 +16,7 @@ src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/include/MprpcChannel.h
 src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/include/MprpcConfig.h
 src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/include/MprpcController.h
 src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/include/RpcHeader.pb.h
+src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/include/ZkClient.h
 src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o: ../src/MprpcChannel.cc
 
 src/CMakeFiles/mprpc.dir/MprpcConfig.cc.o: ../src/include/MprpcConfig.h
@@ -35,5 +36,13 @@ src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/include/MprpcConfig.h
 src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/include/MprpcController.h
 src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/include/RpcHeader.pb.h
 src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/include/RpcProvider.h
+src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/include/ZkClient.h
 src/CMakeFiles/mprpc.dir/RpcProvider.cc.o: ../src/RpcProvider.cc
+
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/include/MprpcApplication.h
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/include/MprpcChannel.h
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/include/MprpcConfig.h
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/include/MprpcController.h
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/include/ZkClient.h
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o: ../src/ZkClient.cpp
 

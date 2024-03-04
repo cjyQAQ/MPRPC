@@ -11,6 +11,7 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "/home/cjy1/workspace/MRPC/src/MprpcController.cc" "/home/cjy1/workspace/MRPC/build/src/CMakeFiles/mprpc.dir/MprpcController.cc.o"
   "/home/cjy1/workspace/MRPC/src/RpcHeader.pb.cc" "/home/cjy1/workspace/MRPC/build/src/CMakeFiles/mprpc.dir/RpcHeader.pb.cc.o"
   "/home/cjy1/workspace/MRPC/src/RpcProvider.cc" "/home/cjy1/workspace/MRPC/build/src/CMakeFiles/mprpc.dir/RpcProvider.cc.o"
+  "/home/cjy1/workspace/MRPC/src/ZkClient.cpp" "/home/cjy1/workspace/MRPC/build/src/CMakeFiles/mprpc.dir/ZkClient.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -17,6 +17,7 @@ src/CMakeFiles/mprpc.dir/MprpcChannel.cc.o
  ../src/include/MprpcConfig.h
  ../src/include/MprpcController.h
  ../src/include/RpcHeader.pb.h
+ ../src/include/ZkClient.h
  /home/cjy1/workspace/MRPC/src/MprpcChannel.cc
 src/CMakeFiles/mprpc.dir/MprpcConfig.cc.o
  ../src/include/MprpcConfig.h
@@ -36,4 +37,12 @@ src/CMakeFiles/mprpc.dir/RpcProvider.cc.o
  ../src/include/MprpcController.h
  ../src/include/RpcHeader.pb.h
  ../src/include/RpcProvider.h
+ ../src/include/ZkClient.h
  /home/cjy1/workspace/MRPC/src/RpcProvider.cc
+src/CMakeFiles/mprpc.dir/ZkClient.cpp.o
+ ../src/include/MprpcApplication.h
+ ../src/include/MprpcChannel.h
+ ../src/include/MprpcConfig.h
+ ../src/include/MprpcController.h
+ ../src/include/ZkClient.h
+ /home/cjy1/workspace/MRPC/src/ZkClient.cpp
